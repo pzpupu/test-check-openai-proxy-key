@@ -17,4 +17,5 @@ export default defineNuxtConfig({
   colorMode: {
     classSuffix: '',
   },
+  testKey: "sk-YhOSewjsl2mz4ls4uAn7qdHZKr7T7zAjmiQ28PRel0eBtest"
 })
